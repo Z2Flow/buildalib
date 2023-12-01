@@ -2,7 +2,7 @@
   "name": "buildalib",
   "private": true,
   "dependencies": {
-    "@rails/ujs": "^6.0.0",
+    "@rails/ujs": "^7.1.1",
     "turbolinks": "^5.2.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/actioncable": "^6.0.0"
